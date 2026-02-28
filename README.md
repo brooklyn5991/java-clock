@@ -1,1 +1,1 @@
-Clock made with java
+A lightweight, object-oriented Java implementation of a 24-hour clock timer. This project demonstrates the fundamentals of Encapsulation and State Mutation—the same principles used to manage transaction states in enterprise backend systems.
